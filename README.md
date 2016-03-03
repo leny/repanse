@@ -16,7 +16,7 @@
 
 ## Documentation
 
-_TODO_
+_documentation will come…_
 
 ## Contributing
 
