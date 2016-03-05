@@ -14,6 +14,8 @@
 
 `npm install --save repanse`
 
+> **Note:** this package is currently **not** published.
+
 ## Documentation
 
 _documentation will come…_
@@ -24,4 +26,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 Release History
 
-0.1.0: initial release (03/03/2016)
+~~0.1.0: initial release (03/03/2016)~~
